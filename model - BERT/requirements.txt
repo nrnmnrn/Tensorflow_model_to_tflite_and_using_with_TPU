@@ -1,0 +1,5 @@
+tensorflow==2.4.0
+transformers==4.2.0
+bert-for-tf2==0.14.9
+numpy==1.19.2
+protobuf==3.19.0
